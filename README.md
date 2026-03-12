@@ -77,33 +77,27 @@ https://github.com/kuppilisrivyshnavi/AI-Interview-Coach-Agent
 
 ---
 
-### 📊 Customer Churn Prediction
+### 🏠 Real Estate Management System
 
-Machine learning model that predicts customer churn using demographic and service data.
+A web-based system designed to manage property listings, users, and real estate transactions efficiently.
 
-**Tech**
+**Features**
 
-Python • Pandas • Scikit-learn
+Property listing management  
+User registration and authentication  
+Database-driven property records  
+Search and management functionalities
 
-Repository
+**Tech Stack**
 
-https://github.com/kuppilisrivyshnavi/customer-churn-prediction
-
----
-
-### 🏠 Property Price Prediction
-
-Regression-based ML model that predicts housing prices using property data.
-
-**Tech**
-
-Python • Data Analysis • Machine Learning
+Java  
+MySQL  
+Web Development Technologies
 
 Repository
 
-https://github.com/kuppilisrivyshnavi/property-price-prediction
+https://github.com/kuppilisrivyshnavi/real-estate-management-system
 
----
 
 ## 📊 GitHub Stats
 
